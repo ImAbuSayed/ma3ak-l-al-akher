@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ma3ak L Al Akher |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 04, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3ak-l-al-akher/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
