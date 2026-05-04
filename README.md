@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> تعالي بقربي نعيش هذا الليل
+> أذوب في سحركِ وأنتِ الدليل
+> حبي لكِ نار تحرق المستحيل
+> معك للآخر يا عشقاً أصيل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
