@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3ak-l-al-akher/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License Abu Sayed's Ma3ak L Al Akher](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Apply for Music License: Ma3ak L Al Akher](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
